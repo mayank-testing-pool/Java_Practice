@@ -10,7 +10,7 @@ public class BMW extends Car {              // "Has-a" relationship
 
     }
 
-    public void theftsafety ()        // Overridden method
+    public void theftsafety ()
     {
         System.out.println( "BMW----Theftsafety" );
 
@@ -18,3 +18,4 @@ public class BMW extends Car {              // "Has-a" relationship
 
 
 }
+
