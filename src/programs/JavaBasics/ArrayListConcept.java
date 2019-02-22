@@ -46,6 +46,8 @@ public class ArrayListConcept {
         ArrayList <String> ar2 = new ArrayList<String>(  );         // Accept only String Values
         ar2.add( "HI" );
         ar2.add( "This" );
+        ar2.add( "is" );
+        ar2.add( "Java" );
         //ar2.add( 100 );             // Through Error
 
         System.out.println( ar2.get( 0 )) ;
