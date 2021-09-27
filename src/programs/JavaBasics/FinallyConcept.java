@@ -9,7 +9,7 @@ public class FinallyConcept {
     {
         //test1();
         //test2();
-        //division();
+        division();
         division2();
     }
 
@@ -65,7 +65,7 @@ public class FinallyConcept {
         int i = 10;
         try {
             System.out.println( "inside try block" );
-            int k = i/0;                //cant devide any value by 0
+            int k = i/2;                //cant devide any value by 0
         }
         catch (NullPointerException e)
         {

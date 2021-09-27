@@ -1,7 +1,8 @@
 package src.programs.JavaBasics;
 
 public class ConstructorWithThisKeyword {
-    //this keyword is user to initialize to class variable with the current value of constructor if both variable are having same name.
+    //this keyword is use to initialize class variable with the current value of constructor if both variable
+    // are having same name.
 
     // Class variables
     static String name;

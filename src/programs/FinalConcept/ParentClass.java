@@ -1,7 +1,7 @@
 package src.programs.FinalConcept;
 
     public class ParentClass {
-//public final class ParentClass {
+    //public final class ParentClass {
     // To prevent inheritance
     // To prevent method overriding
     public void start ()
