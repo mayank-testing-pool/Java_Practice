@@ -7,8 +7,8 @@ public class CreateString {
     public static void main (String [] args)
     {
         //String can be create by below two methods
-        // 1 - By String Literal. Each time you create a string literal, the JVM checks the "string constant pool" first.
-        // If the string already exists in the pool, a reference to the pooled instance is returned.
+        // 1 - By String Literal. Each time you create a string literal, the JVM checks the "string constant pool"
+        // first. If the string already exists in the pool, a reference to the pooled instance is returned.
         // If the string doesn't exist in the pool, a new string instance is created and placed in the pool.
         String str1 = "StringCreate";
         String str2 = "StringCreate"; //it doesn't create new instance
