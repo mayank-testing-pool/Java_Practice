@@ -4,7 +4,7 @@ public class SuperKeywordConstructorB extends SuperKeywordConstructorA {
 
     public SuperKeywordConstructorB()
     {
-        //Always user to call parent class constructor
+        //Always use to call parent class constructor
         //Super keyword is the first statement
         super ();
         //super(10);

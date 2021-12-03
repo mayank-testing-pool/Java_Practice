@@ -1,57 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8a492405-30b1-47fe-b227-e640f3acb9a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/Collections/List/ArrayListConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/Collections/List/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/OOPConcepts/MethodOverridding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programs/StringFunctions/CreateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/StringFunctions/CreateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/Collections/ArrayListConcept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/Collections/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/Collections/LinkListConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/Collections/List/LinkListConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/JavaBasics/SuperKeywordConstructorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/JavaBasics/SuperKeywordConstructorB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Assignments/Accumul.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/Assignments/Accumul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Assignments/AddComplexNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/Assignments/AddComplexNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Assignments/findSecondHighestNubInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/Assignments/findSecondHighestNubInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Assignments/isTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/Assignments/isTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Assignments/validParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/Assignments/validParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Collections/ArrayListConcept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Collections/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/Collections/LinkListConcept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/FinalConcept/ChildClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/FinalConcept/ChildClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/FinalConcept/ParentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/FinalConcept/ParentClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/BMW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/TestCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/TestCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InheritanceConcept/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/BrazilBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/BrazilBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/HSBCBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/HSBCBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/TestBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/TestBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/USBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/InterfaceConcept/USBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ArrayConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ArrayConcepts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ArrayListConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ArrayListConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ConstructorConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ConstructorConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ConstructorWithThisKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ConstructorWithThisKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ExceptionHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/FinalConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/FinalConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/FinalizeConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/FinalizeConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/FinallyConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/FinallyConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/HashTableConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/HashTableConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/IfElseConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/IfElseConcepts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/IncrementOrDecrementOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/IncrementOrDecrementOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/LoopConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/LoopConcepts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/StringConcatenation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/StringConcatenation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/SuperKeywordConstructorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/SuperKeywordConstructorA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/SuperKeywordConstructorB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/SuperKeywordConstructorB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ThrowKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ThrowKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ThrowsKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/ThrowsKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/TwoDimArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/TwoDimArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/datatypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/JavaBasics/datatypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/CallByValueAndCallByRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/CallByValueAndCallByRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/FunctionsInJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/FunctionsInJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/LocalVsGlobalVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/LocalVsGlobalVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/MethodOverloading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/StaticAndNonStaticConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/StaticAndNonStaticConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/WraperClassConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/OOPConcepts/WraperClassConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/programs/StringFunctions/CreateString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/programs/StringFunctions/CreateString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/Java_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/Java_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/Java_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/Java_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programs/StringFunctions/CreateString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programs/InterfaceConcept/BrazilBank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programs/InterfaceConcept/TestBank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/programs/InterfaceConcept/USBank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +106,7 @@
     <option name="width" value="1260" />
     <option name="height" value="954" />
   </component>
+  <component name="ProjectId" id="213MLWvb1TDCigtH62QiaCCdjj1" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -110,41 +138,25 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1633458315831" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.FinallyConcept">
-    <configuration name="ConstructorWithThisKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.programs.JavaBasics.ConstructorWithThisKeyword" />
+  <component name="RunManager" selected="Application.ArrayListConcept">
+    <configuration name="ArrayListConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.programs.Collections.List.ArrayListConcept" />
       <module name="Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.programs.JavaBasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.programs.StringFunctions.CreateString" />
-      <module name="Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.programs.StringFunctions.*" />
+          <option name="PATTERN" value="src.programs.Collections.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,14 +177,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkListConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.programs.Collections.List.LinkListConcept" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.programs.Collections.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverridding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.programs.OOPConcepts.MethodOverridding" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.programs.OOPConcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperKeywordConstructorB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-17.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="src.programs.JavaBasics.SuperKeywordConstructorB" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.programs.JavaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FinallyConcept" />
+      <item itemvalue="Application.SuperKeywordConstructorB" />
+      <item itemvalue="Application.MethodOverridding" />
+      <item itemvalue="Application.ArrayListConcept" />
+      <item itemvalue="Application.LinkListConcept" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListConcept" />
+        <item itemvalue="Application.LinkListConcept" />
+        <item itemvalue="Application.MethodOverridding" />
+        <item itemvalue="Application.SuperKeywordConstructorB" />
         <item itemvalue="Application.FinallyConcept" />
-        <item itemvalue="Application.ConstructorWithThisKeyword" />
-        <item itemvalue="Application.CreateString" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
